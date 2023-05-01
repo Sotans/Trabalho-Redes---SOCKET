@@ -8,7 +8,7 @@
 
 
 ## 📓 Descrição:
-  **O Projeto consisti em duas aplicações (clinte, servidor), da qual a aplicação cliente se conectará ao servidor.**
+  **O Projeto consisti em duas aplicações (cliente, servidor), da qual a aplicação cliente se conectará ao servidor.**
   ### 💻 *Cliente:*
   - O programa cliente se conecta ao servidor;
   - Gera um número inteiro de 1 a 30;
