@@ -27,7 +27,7 @@
 - [Python](https://www.python.org/)
 
 ## :books: Saiba mais:
-  -[O que são e como funcionam os Sockets?](https://www.linuxsolutions.com.br/sockets-o-que-e-e-como-eles-funcionam/)
+- [O que são e como funcionam os Sockets?](https://www.linuxsolutions.com.br/sockets-o-que-e-e-como-eles-funcionam/)
   
-  -[Conexão cliente/servidor.](https://techenter.com.br/o-que-e-o-modelo-cliente-servidor/)
+- [Conexão cliente/servidor.](https://techenter.com.br/o-que-e-o-modelo-cliente-servidor/)
 
